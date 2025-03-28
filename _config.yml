@@ -1,5 +1,11 @@
 title: Anand Thirwani
 logo: /assets/img/headshot.jpg
-# description: text below image
+description: >
+  <div style="text-align: left;">
+    <h1>Hi, I'm A 👋</h1>
+    <h2>🚀 About Me</h2>
+    <p>I'm an <strong>AI/ML Engineer</strong> with over 8 years of experience in building and deploying machine learning models at scale. My expertise spans <strong>Generative AI, Computer Vision, NLP, Time Series Forecasting</strong>, and <strong>Causal Inference</strong>. I specialize in creating end-to-end ML pipelines that transform raw data into actionable insights.</p>
+  </div>
 show_downloads: true
 theme: jekyll-theme-minimal
+

@@ -1,11 +1,17 @@
-# title: Anand Thirwani
+title: 
 # logo: /assets/img/headshot.jpg
 description: >
   <div style="text-align: left;">
     <h1>Hi, I'm Anand 👋</h1>
     <h2>🚀 About Me</h2>
     <p>I'm an <strong>AI/ML Engineer</strong> with over 8 years of experience in building and deploying machine learning models at scale. My expertise spans <strong>Generative AI, Computer Vision, NLP, Time Series Forecasting</strong>, and <strong>Causal Inference</strong>. I specialize in creating end-to-end ML pipelines that transform raw data into actionable insights.</p>
+
+    <h1>🏢 Experience</h2>
+    <ul>
+      <li><strong>Jio Platforms</strong> – Leading AI technology development for the renewable energy vertical.</li>
+      <li><strong>Twitter</strong> – Developed ML models that improved user retention by over 100k+ users.</li>
+      <li><strong>Walmart</strong> – Built pricing optimization models yielding ~$500M reduction in unsold inventory across ~200M items.</li>
+    </ul>
   </div>
 show_downloads: false
 theme: jekyll-theme-minimal
-

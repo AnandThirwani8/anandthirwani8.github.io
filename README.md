@@ -24,6 +24,28 @@
 </div>
 
 
+## 🛠️ Latest Work
+
+<div style="display: flex; align-items: flex-start; background: #f9f9f9; border: 1px solid #ddd; border-radius: 10px; padding: 16px; margin-bottom: 24px; box-shadow: 2px 2px 8px rgba(0,0,0,0.05);">
+
+  <img src="/assets/img/headshot4.png" alt="Project thumbnail" style="width: 150px; height: auto; margin-right: 20px; border-radius: 8px;">
+
+  <div>
+    <h3 style="margin-top: 0;">Project Title</h3>
+    <p>
+      A short description of the project goes here. You can mention tools, outcomes, or anything that makes it interesting.
+    </p>
+    <p>
+      🔗 <a href="https://github.com/your-repo">Code</a> |
+      📄 <a href="https://your-site.com/blog-post">Blog</a> |
+      🌐 <a href="https://demo-link.com">Live Demo</a>
+    </p>
+  </div>
+
+</div>
+
+
+
 ## 📝 Latest Work
 - 📄 [Implementing Agentic RAG for Real-World Tasks](https://medium.com/@anandthirwani/implementing-agentic-rag-for-real-world-tasks-f4ce2c800aa0)
 - 📄 [The End of Hallucinations? How Multi-Agent AI Systems Could Eliminate LLM Hallucinations](https://medium.com/@anandthirwani/the-end-of-hallucinations-how-multi-agent-ai-systems-could-eliminate-llm-hallucinations-d41853689ec1)

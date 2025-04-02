@@ -1,12 +1,11 @@
 title: 
-# logo: /assets/img/headshot.jpg
+logo: /assets/img/headshot2.png
 description: >
   <div style="text-align: left;">
-    <h1>Hi, I'm Anand 👋</h1>
     <h2>🚀 About Me</h2>
-    <p>I'm an <strong>AI/ML Engineer</strong> with over 8 years of experience in building and deploying machine learning models at scale. My expertise spans <strong>Generative AI, Computer Vision, NLP, Time Series Forecasting</strong>, and <strong>Causal Inference</strong>. I specialize in creating end-to-end ML pipelines that transform raw data into actionable insights.</p>
+    <p>I'm a <strong>Data Scientist</strong> with over 8 years of experience in building and deploying machine learning models at scale. My expertise spans <strong>Generative AI, Computer Vision, NLP, Time Series Forecasting</strong>, and <strong>Causal Inference</strong>.</p>
 
-    <h1>🏢 Experience</h2>
+    <h2>🏢 Experience</h2>
     <ul>
       <li><strong>Jio Platforms</strong> – Leading AI technology development for the renewable energy vertical.</li>
       <li><strong>Twitter</strong> – Developed ML models that improved user retention by over 100k+ users.</li>

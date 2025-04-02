@@ -1,5 +1,5 @@
 title: ""
-logo: /assets/img/headshot2.png
+logo: /assets/img/headshot3.png
 description: >
   <div style="text-align: left;">
     <h2>🚀 About Me</h2>
@@ -14,6 +14,3 @@ description: >
   </div>
 show_downloads: false
 theme: jekyll-theme-minimal
-
-include:
-  - assets/css/style.css

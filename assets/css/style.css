@@ -1,0 +1,8 @@
+.sidebar img {
+    height: 80px;
+    width: auto;
+  }
+  
+  .sidebar h1 {
+    display: none; /* Hide site title */
+  }
